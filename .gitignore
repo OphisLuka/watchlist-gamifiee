@@ -1,0 +1,11 @@
+# Données personnelles (ta vraie watchlist, à ne pas publier)
+watchlist.csv
+
+# Fichiers Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environnement virtuel (si tu en crées un plus tard)
+venv/
+env/
