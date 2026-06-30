@@ -75,4 +75,4 @@ Cette application étant une app web, elle est aussi accessible depuis le naviga
 
 ## Auteur
 
-[OphisLuka](https://github.com/OphisLuka) — en alternance Ingénieur IA (OpenClassrooms).
+[OphisLuka](https://github.com/OphisLuka)
